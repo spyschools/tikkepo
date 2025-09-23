@@ -11,4 +11,4 @@ $ pip3 install requests
 
 $ pip3 install argparse
 
-$ python3 TikStalker.py -u usernametiktok
+$ python3 tik_stalker_fixed.py -u usernametiktok
